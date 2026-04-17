@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @timbrier6
-- 👀 I’m interested in software engineering, game development, and web development
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on a java-based project
-- 📫 How to reach me on snapchat @tim.brier
-- 😄 Pronouns: he/him/his
+- 👀 I’m interested in data analysis, software engineering, and web development!
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on a python-based project
+- 📫 How to reach me on snapchat: @tuxedo.tee
 - ⚡ Fun fact: I have been scuba diving in my free time since I was 10!
 
 <!---
