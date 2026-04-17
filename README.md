@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @timbrier6
+- 👋 Hi, I’m @tbrier6
 - 👀 I’m interested in data analysis, software engineering, and web development!
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on a python-based project
